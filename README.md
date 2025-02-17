@@ -13,7 +13,9 @@ View course details, descriptions, and instructors.
 ✔ Admin Panel: Manage users, courses, and student enrollments.
 ✔ Database-Driven: Uses JDBC with SQL for efficient data storage and retrieval.
 ✔ Dynamic Web Pages: JSP and Servlets for backend processing with a responsive UI.
-Pre-requisites Before Cloning from GitHub:
+
+
+**Pre-requisites Before Cloning from GitHub**:
 Java Development Kit (JDK) (Version 8 or above)
 
 Ensure Java is installed and set up in system environment variables.
